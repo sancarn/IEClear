@@ -10,7 +10,7 @@ The reason I invented IEClear is because often my desktop ended up like this:
 
 If you type "ieclear" while this application is running all windows explorer windows will be reorganised in a single windows explorer window. Like this:
 
-![ClearedDesktop](/Images/Results.png)
+![ClearedDesktop](/Images/Explained.png)
 
 As you can see, all open Internet Explorer pages are now tabs in the current Internet Explorer window.
 
