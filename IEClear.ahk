@@ -1,4 +1,5 @@
-﻿;  Your   code   here
+#SingleInstance, Force
+Menu, Tray, Icon, Icon\IEClear.ico
 #IfWinActive, ahk_exe iexplore.exe
 :*:IECLEAR::
 	URLs := []
